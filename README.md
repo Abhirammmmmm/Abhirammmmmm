@@ -2,7 +2,7 @@
 <h1 align="center" style="font-size: 3em; font-weight: bold;">Hi 👋, I'm Maddala Abhiram</h1>
 <h3 align="center" style="font-size: 2em; font-weight: bold;">A passionate Full-Stack Developer & AI/ML Enthusiast from Hyderabad, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhirammmmmmm&label=Profile%20views&color=0e75b6&style=flat" alt="Abhirammmmmmm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhirammmmmm&label=Profile%20views&color=0e75b6&style=flat" alt="Abhirammmmmm" /> </p>
 
 - 🎓 Final year **B.Tech Computer Science** student at Geethanjali College of E&T (2022-26)
 - 🔭 I'm currently working on **Aspect-Level Sentiment Analysis using DistilBERT with Explainable AI**
@@ -117,16 +117,16 @@ A web platform that fights food waste by connecting donors with NGOs. Features a
 <h3 align="left" style="font-size: 1.5em; font-weight: bold;">🐍 Contribution Snake:</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhirammmmmmm/Abhirammmmmmm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhirammmmmmm/Abhirammmmmmm/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abhirammmmmmm/Abhirammmmmmm/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhirammmmmm/Abhirammmmmm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhirammmmmm/Abhirammmmmm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abhirammmmmm/Abhirammmmmm/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhirammmmmmm&show_icons=true&locale=en&layout=compact" alt="Abhirammmmmmm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhirammmmmm&show_icons=true&locale=en&layout=compact" alt="Abhirammmmmm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhirammmmmmm&show_icons=true&locale=en" alt="Abhirammmmmmm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhirammmmmm&show_icons=true&locale=en" alt="Abhirammmmmm" /></p>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=Abhirammmmmmm" alt="Abhirammmmmmm" style="max-width: 100%;">
+<img align="center" src="https://streak-stats.demolab.com/?user=Abhirammmmmm" alt="Abhirammmmmm" style="max-width: 100%;">
